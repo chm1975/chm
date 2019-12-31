@@ -4,7 +4,7 @@
 
 **Proposal Category:** `app-dev`
 
-**Proposer:**  @eshon
+**Proposal Type:*** `rfp`
 
 ## Project Description
 
@@ -25,6 +25,10 @@ Other deliverables points are:
 - We assume that API (Lotus) has all necessary endpoints and is well documented so that the visualization tool can consume the corresponding data and transform it into a graphical representation.
 - We recommend work with sprint 0 for the milestone 1, to define UI mockups and endpoints.
 - The frontend and backend will be hosted by Filecoin.
+
+## Scope of Work
+Protofire’s team has the capability and expertise to develop the required tool detailed on the [RFP](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md).
+According to the requirements, our team is ready to work on these milestones :
 
 #### Related Tools
 
