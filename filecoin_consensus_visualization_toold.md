@@ -6,13 +6,22 @@
 
 **Proposal Type:*** `rfp`
 
+## Summary
+This document outlines Protofire’s (a sub-division of Altoros) proposition on providing a  blockchain specialist developer team to build the Consensus Visualization Tool. We believe that we can build robust solution and contribute with our experience to Filecoin network community.
+
+## Who we are
+
+[Protofire](https://protofire.io) is a team of engineers that helps providers of decentralized protocols, infrastructures and developer platforms to accelerate the growth of their ecosystems. By providing hands-on coding and contributions, Protofire specializes in supercharging developer adoption and network usage. We ship applications, smart contracts, and developer tools (SDKs/APIs/sample apps), as well as assist you in improving performance/cost of oracles.
+Having been interested in Filecoin, our team researched and checked the network to learn and understand the structure, scalability, and security. 
+Based on our experience working with different protocols, networks and as specialists in developing blockchain technologies, we propose our Protofire’s team to build the required tool.
+
 ## Project Description
 
-Develop an open-source blockchain consensus visualization tool that demonstrates Filecoin's Expected Consensus process. It must show the main chain and also other forks.
+Develop an open-source blockchain consensus visualization tool that demonstrates Filecoin's [Expected Consensus](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md#about-expected-consensus-ec) process. It must show the main chain and also other forks.
 Expected Consensus based on Storage Power Mining is a very exciting consensus algorithm in Filecoin. Educate those new to Filecoin on how it works. Observe when bad forks happen and probe when and why they may be occurring.
 
 ## Deliverables
-We agree to work under the scope of work detailed in the deliverable rules shared on this link.
+We agree to work under the scope of work detailed in the deliverable rules shared on this [link](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md#deliverables).
 Other deliverables points are:
 - Open source Github repository with public access
 - Hosted application working with Testnet and Mainnet
@@ -29,6 +38,113 @@ Other deliverables points are:
 ## Scope of Work
 Protofire’s team has the capability and expertise to develop the required tool detailed on the [RFP](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md).
 According to the requirements, our team is ready to work on these milestones :
+
+<table>
+  <tr>
+   <td>Milestone
+   </td>
+   <td>Tasks
+   </td>
+   <td>Deliverables
+   </td>
+   </tr>
+  <body>
+  <tr>
+   <td>#1
+ </td>
+ <td>- Research, analysis
+    - Install Lotus (Node+Miner)
+    - Install Go-Filecon and analyze heartbeats
+    - Learn the process and details about nodes and consensus is represented
+- Define UI requirements
+    - Information
+    - Charts
+    - Nodes and network data
+- Design mockups and final UI
+- Endpoints definition
+- Architecture & infrastructure definition
+- Validation of scope and roadmap definition
+- Write backlog tickets
+</td>
+   <td>- Document with defined scope
+
+- UI mockups designs 
+
+- Infrastructure design
+
+- API endpoint definitions
+
+- Roadmap document and completed Backlog
+   </td>
+    </tr>
+  <tr>
+   <td vertical-align:text-top>#2
+   </td>
+   <td>- Organize 2 sprints of 2 weeks
+- Frontend
+        - Setup
+        - UI layout design
+        - Dev React components
+        - Data connection to backend
+        - Unit tests
+        - CI
+- Backend (if needed)
+        - Setup
+        - API endpoints unit tests 
+        - New endpoints
+        - Unit Tests
+        - CI
+- Local/Develop and Cloud/Test environments setups
+- 2 Demos
+- Feedback rework
+Sprint duration may be adapted according to team size and scope; as well as demos & feedback rework sessions.
+   </td>
+   <td>- Consensus Visualization Tool Dapp
+<p>
+- Dapp based on React+Typescript and interactive visualization libraries (d3.js, Highcharts, Nvd3, rechart, etc) and other libraries  \
+- Dapp displays new messages, blocks, tipsets, ancestors, forks, miners and related information via live updates
+<p>
+- Additional tools, infrastructure or backend if it's defined
+<p>
+- Tests: Apply units tests, CI and manual QA
+   </td>
+   </tr>
+  <tr>
+   <td>#3
+   </td>
+   <td>- Improve documentation and support information (if needed): README, wikis, tutorials, etc.
+- Transfer ownership of CI/CD and services that support the architecture to Filecoin (if needed, use free/open source-based service when possible).
+- Move codebase/repos to Shipyard and adapt to meet Filecoin standards.
+   </td>
+   <td>- Feedback
+- Create well-documented, human-readable codebase
+- Create blog post and/or tutorial with demo usage
+   </td>
+  </tr>
+  <tr>
+   <td>#4
+   </td>
+   <td>Maintenance and Upgrades during Testnet and Mainnet
+   </td>
+   <td>- Feedback
+   </td>
+     </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><p style="text-align: right">
+Total</p>
+
+   </td>
+   <td>10-11 weeks
+   </td>
+  </tr>
+  </body>
+</table>
 
 #### Related Tools
 
