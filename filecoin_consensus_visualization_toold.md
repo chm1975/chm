@@ -38,7 +38,7 @@ According to the requirements, our team is ready to work on these milestones :
 </td>
 <td><strong>Tasks________________________</strong>
 </td>
-<td><strong>Deliverables & Outcome</strong>
+<td><strong>Deliverables & Outcomes</strong>
 </td>
 <td><strong>Funding</strong>
 </td>
@@ -76,7 +76,7 @@ According to the requirements, our team is ready to work on these milestones :
 - Roadmap document and completed Backlog
 
 <p>
-<strong>Outcome:</strong>
+<strong>Outcomes:</strong>
 
 Definition of what and how the visual tool accomplishes the objective(s), alongside with a prioritization of them (scope and roadmap). This definition will be made up by the deliverables previously listed, so that the engineering team and stakeholders goals are aligned at the end of the feedback rounds and for the milestones ahead.
    </td>
@@ -122,7 +122,7 @@ Definition of what and how the visual tool accomplishes the objective(s), alongs
 
 
 <p>
-<strong>Outcome:</strong>
+<strong>Outcomes:</strong>
 
 Generate a working implementation that meets the objectives previously defined, and that is approved by stakeholders.
    </td>
@@ -151,7 +151,7 @@ Generate a working implementation that meets the objectives previously defined, 
 
 
 <p>
-<strong>Outcome:</strong>
+<strong>Outcomes:</strong>
 
 Wrap up the project's codebase to add it to the Shipyard so it can be further modified or maintained by a Filecoin developer/community. The blogpost or tutorial may improve the understanding of how the project works and represents the consensus process (ideal to aid new people looking for understanding the consensus process) and, maybe, tell something cool about the development experience to improve community engagement.
 
@@ -173,7 +173,7 @@ Maintenance and Upgrades during Testnet and Mainnet
 - Feedback: changes and improvements
 
 <p>
-<strong>Outcome:</strong>
+<strong>Outcomes:</strong>
 
 Protofire team will support problems and bugs detected during the agreed period.
    </td>
