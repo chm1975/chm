@@ -200,7 +200,7 @@ Protofire team will support problems and bugs detected during the agreed period.
 
 ### Acceptance Criteria
 
-This proposal accept the acceptance criteria defined [here](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md#acceptance-criteria). Before starting the project we will make a detailed document with the acceptance criteria based on the final defined scope.
+This proposal accept the acceptance criteria defined [here](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md#acceptance-criteria). Between milestones 1 and 2, we will make a detailed document with the acceptance criteria based on the final defined scope.
 
 
 ## Assumptions
