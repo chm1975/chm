@@ -40,94 +40,146 @@ Protofire’s team has the capability and expertise to develop the required tool
 According to the requirements, our team is ready to work on these milestones :
 
 <table>
-  <tr>
-   <td>Milestone
-   </td>
-   <td>Tasks
-   </td>
-   <td>Deliverables
-   </td>
-   </tr>
-  <body>
-  <tr>
-   <td>#1
- </td>
- <td>- Research, analysis  
-    - Install Lotus (Node+Miner)   
-    - Install Go-Filecon and analyze heartbeat  
-    - Learn the process and details about nodes and consensus is represented  
-- Define UI requirements
-    - Information
-    - Charts
-    - Nodes and network data    
-- Design mockups and final UI
-- Endpoints definition
-- Architecture & infrastructure definition
-- Validation of scope and roadmap definition
-- Write backlog tickets
+<tr>
+<td><strong>Milestone</strong>
 </td>
-   <td>- Document with defined scope
-    - UI mockups designs 
-    - Infrastructure design
-    - API endpoint definitions
+<td><strong>Tasks_______________________________</strong>
+</td>
+<td><strong>Deliverables & Outcome</strong>
+</td>
+<td><strong>Funding</strong>
+</td>
+<td><strong>Effort</strong>
+</td>
+</tr>
+<tr>
+<td>#1
+</td>
+<td>
+- Research, analysis
 
--Roadmap document and completed Backlog
-   </td>
-    </tr>
-  <tr>
-   <td vertical-align:text-top>#2
-   </td>
-   <td>- Organize 2 sprints of 2 weeks
-- Frontend
-        - Setup
-        - UI layout design
-        - Dev React components
-        - Data connection to backend
-        - Unit tests
-        - CI
-- Backend (if needed)
-        - Setup
-        - API endpoints unit tests 
-        - New endpoints
-        - Unit Tests
-        - CI
-- Local/Develop and Cloud/Test environments setups
-- 2 Demos
-- Feedback rework
-Sprint duration may be adapted according to team size and scope; as well as demos & feedback rework sessions.
-   </td>
-   <td>- Consensus Visualization Tool Dapp
+- Install Lotus (Node+Miner)
+- Install Go-Filecon and analyze heartbeats
+- Learn the process and details about nodes and consensus is represented
+<p></p>
+- Define UI requirements
+
+- Information
+- Charts
+- Nodes and network data
+<p>- Design mockups and final UI.
+<p>- Endpoints definition
+<p>- Architecture & infrastructure definition
+<p>- Validation of scope and roadmap definition
+<p>- Write backlog tickets
+
+</td>
+<td><strong>Deliverables:</strong>
+
+- Document with defined scope
+- UI mockups designs 
+- Infrastructure design
+- API endpoint definitions
+- Roadmap document and completed Backlog
+
 <p>
-- Dapp based on React+Typescript and interactive visualization libraries (d3.js, Highcharts, Nvd3, rechart, etc) and other libraries  \
-- Dapp displays new messages, blocks, tipsets, ancestors, forks, miners and related information via live updates
-<p>
-- Additional tools, infrastructure or backend if it's defined
-<p>
-- Tests: Apply units tests, CI and manual QA
+<strong>Outcome:</strong>
+
+Definition of what and how the visual tool accomplishes the objective(s), alongside with a prioritization of them (scope and roadmap). This definition will be made up by the deliverables previously listed, so that the engineering team and stakeholders goals are aligned at the end of the feedback rounds and for the milestones ahead.
    </td>
-   </tr>
-  <tr>
-   <td>#3
+   <td>35K
    </td>
-   <td>- Improve documentation and support information (if needed): README, wikis, tutorials, etc.
-- Transfer ownership of CI/CD and services that support the architecture to Filecoin (if needed, use free/open source-based service when possible).
-- Move codebase/repos to Shipyard and adapt to meet Filecoin standards.
-   </td>
-   <td>- Feedback
-- Create well-documented, human-readable codebase
-- Create blog post and/or tutorial with demo usage
+   <td>3 weeks
    </td>
   </tr>
-  <tr>
-   <td>#4
+ <tr>
+<td>#2
+</td>
+<td>
+- Organize 2 sprints of 2 weeks
+<p>- Frontend
+
+- Setup
+- UI layout design
+- Dev React components
+- Data connection to backend
+- Unit tests
+- CI
+
+<p>- Backend (if needed)
+
+- Setup
+- API endpoints unit tests 
+- New endpoints
+- Unit Tests
+- CI
+<p>- Local/Develop and Cloud/Test environments setups
+<p>- 2 Demos
+<p>- Feedback rework
+
+
+</td>
+<td><strong>Deliverables:</strong>
+
+- Consensus Visualization Tool Dapp
+- Dapp based on React+Typescript and interactive visualization libraries (d3.js, Highcharts, Nvd3, rechart, etc) and other libraries 
+- Dapp displays new messages, blocks, tipsets, ancestors, forks, miners and related information via live updates
+- Additional tools, infrastructure or backend if it's defined
+- Tests: Apply units tests, CI and manual QA
+
+
+<p>
+<strong>Outcome:</strong>
+
+Generate a working implementation that meets the objectives previously defined, and that is approved by stakeholders.
    </td>
-   <td>Maintenance and Upgrades during Testnet and Mainnet
+   <td>35K
    </td>
-   <td>- Feedback
+   <td>3 weeks
    </td>
-     </tr>
-  </body>
+  </tr>
 </table>
+
+
+### Acceptance Criteria
+
+This proposal accept the acceptance criteria defined [here](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md#acceptance-criteria). Before starting the project we will make a detailed document with the acceptance criteria based on the final defined scope.
+
+
+### A Similar Tool
+
+Protofire built a network explorer for the [Enigma Protocol](https://enigma.co/) project that shows status and statistical information of the network. The application reads and processes blockchain data and Enigma network and handles events of all Enigma workers (nodes), epochs (rounds), tasks and users' information. 
+
+The plan for the Consensus Visualization Tool resembles the Network Explorer Dapp’s plan, and in this context we have positive experiences. We built a good infrastructure behind the Dapp where we process the Ethereum data through building a [subgraph](https://thegraph.com/), increasing the data access speed to the frontend and creating a backend API (NodeJs) in order to process statistical data and manage complex formulas to handle different events. The complete solution was developed using containers based on docker-compose that allowed easy deploys on cloud services.
+
+Our engineering team was responsible for the complete development process working in the analysis, scope definition and UI/UX design through mockups & prototypes, data schema definitions, flows, roadmap and finally the complete development. We worked focused on keeping a good balance between the UI/UX data and backend process. 
+
+![Home](https://raw.githubusercontent.com/cristianmalfesi/chm/master/Enigma%20Network%20Explorer_Home.png?token=AFNHXPMMQOFM5ZA3ZDRGXO26C6RZ2)
+<table>
+ </td>
+   <td>The main page intends to show a quick overview of the network status. All data of the network, progressive chart, Epocs boxes, and tasks are updated in real-time. The user has all the information in a screenshot and one-click access to go in deeper details. \
+We have used React, Typescript, web3, material-ui, Apollo, Koajs+hapi, etc.
+   </td>
+  </tr>
+</table>
+
+![Worker](https://raw.githubusercontent.com/cristianmalfesi/chm/master/Enigma%20Network%20Explorer%20-%2008%20Worker%20Single%402x.png?token=AFNHXPNBI2BDCXCAZR7ZYRK6C6S5A)
+<table>
+ </td>
+   <td>List pages show complete details of different entities including features like filter, search, sort, etc. Based on the subgraph + backend-API, we have complete access to all data with high speed.
+   </td>
+  </tr>
+</table>
+
+![Task details](https://raw.githubusercontent.com/cristianmalfesi/chm/master/Enigma%20Network%20Explorer_Task_details.png?token=AFNHXPOM4NGDTXZSO2N4LRC6C6S5M)
+<table>
+ </td>
+   <td>User has the complete entity information of workers (nodes), tasks and users and all is synchronized and has related links to any direction.
+   </td>
+  </tr>
+</table>
+
+
 
 #### Related Tools
 
