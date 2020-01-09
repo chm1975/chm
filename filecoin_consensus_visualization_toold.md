@@ -52,14 +52,14 @@ According to the requirements, our team is ready to work on these milestones :
   <tr>
    <td>#1
  </td>
- <td>- Research, analysis
-    - Install Lotus (Node+Miner)
-    - Install Go-Filecon and analyze heartbeats
-    - Learn the process and details about nodes and consensus is represented
+ <td>- Research, analysis  
+    - Install Lotus (Node+Miner)   
+    - Install Go-Filecon and analyze heartbeat  
+    - Learn the process and details about nodes and consensus is represented  
 - Define UI requirements
     - Information
     - Charts
-    - Nodes and network data
+    - Nodes and network data    
 - Design mockups and final UI
 - Endpoints definition
 - Architecture & infrastructure definition
@@ -67,14 +67,11 @@ According to the requirements, our team is ready to work on these milestones :
 - Write backlog tickets
 </td>
    <td>- Document with defined scope
+    - UI mockups designs 
+    - Infrastructure design
+    - API endpoint definitions
 
-- UI mockups designs 
-
-- Infrastructure design
-
-- API endpoint definitions
-
-- Roadmap document and completed Backlog
+-Roadmap document and completed Backlog
    </td>
     </tr>
   <tr>
