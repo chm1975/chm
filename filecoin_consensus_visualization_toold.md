@@ -49,7 +49,7 @@ According to the requirements, our team is ready to work on these milestones :
 </td>
 <td><strong>Funding</strong>
 </td>
-<td><strong>Effort</strong>
+<td><strong>Effort___</strong>
 </td>
 </tr>
 <tr>
@@ -154,7 +154,9 @@ The plan for the Consensus Visualization Tool resembles the Network Explorer Dap
 
 Our engineering team was responsible for the complete development process working in the analysis, scope definition and UI/UX design through mockups & prototypes, data schema definitions, flows, roadmap and finally the complete development. We worked focused on keeping a good balance between the UI/UX data and backend process. 
 
-![Home](https://raw.githubusercontent.com/cristianmalfesi/chm/master/Enigma%20Network%20Explorer_Home.png?token=AFNHXPMMQOFM5ZA3ZDRGXO26C6RZ2)
+<p></p>
+![Home](https://drive.google.com/file/d/1rv8sdAXkwJ5KoBpo2qjiNUw-aOKcxOJy/preview)
+
 <table>
  </td>
    <td>The main page intends to show a quick overview of the network status. All data of the network, progressive chart, Epocs boxes, and tasks are updated in real-time. The user has all the information in a screenshot and one-click access to go in deeper details. \
@@ -162,22 +164,124 @@ We have used React, Typescript, web3, material-ui, Apollo, Koajs+hapi, etc.
    </td>
   </tr>
 </table>
+<p></p>
+![Worker](https://raw.githubusercontent.com/cristianmalfesi/chm/master/Enigma%20Network%20Explorer%20-%2008%20Worker%20Single%402x.png?raw=true)
 
-![Worker](https://raw.githubusercontent.com/cristianmalfesi/chm/master/Enigma%20Network%20Explorer%20-%2008%20Worker%20Single%402x.png?token=AFNHXPNBI2BDCXCAZR7ZYRK6C6S5A)
 <table>
  </td>
    <td>List pages show complete details of different entities including features like filter, search, sort, etc. Based on the subgraph + backend-API, we have complete access to all data with high speed.
    </td>
   </tr>
 </table>
+<p></p>
+![Task details](https://drive.google.com/file/d/1hQMc5iA9VQavyAbIJ9ZELm8MPPLDiAfx/preview)
 
-![Task details](https://raw.githubusercontent.com/cristianmalfesi/chm/master/Enigma%20Network%20Explorer_Task_details.png?token=AFNHXPOM4NGDTXZSO2N4LRC6C6S5M)
 <table>
  </td>
    <td>User has the complete entity information of workers (nodes), tasks and users and all is synchronized and has related links to any direction.
    </td>
   </tr>
 </table>
+
+
+## Key Personnel and Roles
+
+Five is the proposed team and roles. Some staff members may take on multiple resource roles. \
+
+
+<table>
+  <tr>
+   <td>
+    <strong>Resource Title</strong>
+   </td>
+   <td>
+    <strong>Resource</strong>
+   </td>
+   <td>
+    <strong>Resource Description</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Product Manager
+   </td>
+   <td>
+    <a href="https://team.altoros.com/cv1b3d1a/CristianMa">Cristian Malfesi</a>
+   </td>
+   <td>
+    Project Managers are responsible for overseeing the design & development teams. 
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Technical Architect
+   </td>
+   <td>
+    Franco Victorio
+   </td>
+   <td>
+    Technical architects are responsible for providing guidance and oversight on technical requirements for the product.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Frontend Engineer
+   </td>
+   <td>
+    Jorge Shirai / \
+Fernando Greco
+   </td>
+   <td>
+    FE engineers are responsible for developing the front end services for the product. Experts using React, Javascript, Typescript and related interactive visualization libraries (web3.js, d3.js apollo, web3, koajs, hapi, mongoose and much more) 
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Backend Engineer
+   </td>
+   <td>
+    Lisandro Corbalán /  Darío Miñones
+   </td>
+   <td>
+    BE engineers are responsible for developing the back end services for the product. Work with these technologies: NodeJs, API, GraphQL, SQL/NonSQL,CI/CD, etc..
+   </td>
+  </tr>
+  <tr>
+   <td>
+    QA and Reviewer
+   </td>
+   <td>
+    Nicolás Dominguez
+   </td>
+   <td>
+    QA engineers are responsible for ensuring the product is bug-free and meets client requirements.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    UI Designer
+   </td>
+   <td>
+    Gabriel Rodriguez
+   </td>
+   <td>
+    UI Designers are responsible for the development of a Design System which includes UI and UX.
+   </td>
+  </tr>
+</table>
+
+
+## Project Management
+
+The Project Manager will be the primary Point of Contact for Filecoin. Work arrangements and communication plans include:
+
+*   100% remote team that works across geographies and timezones.
+*   Set up a shared Slack channel to maintain active dialogue with Filecoing team.
+*   Set up Slack webhooks from all project management tools for visibility on progress.
+*   Weekly updates will be organized and scheduled demos and discussions.
+*   We use agile methodologies (Scrum, Kanban) and periodic time reports. Sprints of 2 weeks
+*   Organize work and tickets through a Board Administrator
+
 
 
 
