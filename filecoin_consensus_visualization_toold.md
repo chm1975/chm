@@ -28,13 +28,6 @@ Other deliverables points are:
 - The tutorial will be published in the repo.
 - Create a blog post and publish it on medium and share through linkedin, twitter and other social nets
 
-## Assumptions
-- Code hosted into the public Protofire Github repository.
-- Long term maintenance should be agreed with Filecoin.
-- We assume that API (Lotus) has all necessary endpoints and is well documented so that the visualization tool can consume the corresponding data and transform it into a graphical representation.
-- We recommend work with sprint 0 for the milestone 1, to define UI mockups and endpoints.
-- The frontend and backend will be hosted by Filecoin.
-
 ## Scope of Work
 Protofire’s team has the capability and expertise to develop the required tool detailed on the [RFP](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md).
 According to the requirements, our team is ready to work on these milestones :
@@ -43,7 +36,7 @@ According to the requirements, our team is ready to work on these milestones :
 <tr>
 <td><strong>Milestone</strong>
 </td>
-<td><strong>Tasks_______________________________</strong>
+<td><strong>Tasks________________________</strong>
 </td>
 <td><strong>Deliverables & Outcome</strong>
 </td>
@@ -138,13 +131,85 @@ Generate a working implementation that meets the objectives previously defined, 
    <td>3 weeks
    </td>
   </tr>
+  <tr>
+<td>#3
+</td>
+<td>
+<p>- Improve documentation and support information (if needed): README, wikis, tutorials, etc.
+<p>- Transfer ownership of CI/CD and services that support the architecture to Filecoin (if needed, use free/open source-based service when possible).
+<p>- Move codebase/repos to Shipyard and adapt to meet Filecoin standards.
+- Work on feedback 
+
+
+
+</td>
+<td><strong>Deliverables:</strong>
+
+- Changes and improvements from feedback
+- Create well-documented, human-readable codebase
+- Create blog post and/or tutorial with demo usage
+
+
+<p>
+<strong>Outcome:</strong>
+
+Wrap up the project's codebase to add it to the Shipyard so it can be further modified or maintained by a Filecoin developer/community. The blogpost or tutorial may improve the understanding of how the project works and represents the consensus process (ideal to aid new people looking for understanding the consensus process) and, maybe, tell something cool about the development experience to improve community engagement.
+
+   </td>
+   <td>20K
+   </td>
+   <td>2 weeks
+   </td>
+  </tr>
+  <tr>
+<td>#4
+</td>
+<td>
+Maintenance and Upgrades during Testnet and Mainnet
+
+</td>
+<td><strong>Deliverables:</strong>
+
+- Feedback: changes and improvements
+
+<p>
+<strong>Outcome:</strong>
+
+Protofire team will support problems and bugs detected during the agreed period.
+   </td>
+   <td>15K
+   </td>
+   <td>2 weeks
+   </td>
+  </tr>
+  <tr>
+<td><strong></strong>
+</td>
+<td><strong></strong>
+</td>
+<td><strong>TOTAL</strong>
+</td>
+<td><strong>110K</strong>
+</td>
+<td><strong>11 weeks</strong>
+</td>
+</tr>
 </table>
+
 
 
 ### Acceptance Criteria
 
 This proposal accept the acceptance criteria defined [here](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md#acceptance-criteria). Before starting the project we will make a detailed document with the acceptance criteria based on the final defined scope.
 
+
+## Assumptions
+- Code hosted into the public Protofire Github repository.
+- Long term maintenance should be agreed with Filecoin.
+- We assume that API (Lotus) has all necessary endpoints and is well documented so that the visualization tool can consume the corresponding data and transform it into a graphical representation.
+- We recommend work with sprint 0 for the milestone 1, to define UI mockups and endpoints.
+- The frontend and backend will be hosted by Filecoin.
+- The proposed time is based on timeframes suggested by Filecoin in the instructions of this link. We assume that Filecoin understands the risks and could be necessary to rethink the estimates.
 
 ### A Similar Tool
 
