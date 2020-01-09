@@ -129,20 +129,6 @@ Sprint duration may be adapted according to team size and scope; as well as demo
    <td>- Feedback
    </td>
      </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-Total</p>
-
-   </td>
-   <td>10-11 weeks
-   </td>
-  </tr>
   </body>
 </table>
 
