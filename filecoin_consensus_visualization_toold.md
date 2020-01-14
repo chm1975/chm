@@ -257,7 +257,7 @@ We have used React, Typescript, web3, material-ui, Apollo, Koajs+hapi, etc.
 
 <table>
  </td>
-   <td>The dashboard shows complete details of different entities and allows to organise information using a filter, a keyword search or sort out data by a certain parameters, etc. Based on the subgraph + backend-API, we managed to provide faster access to blockchain data compared to solutions based on Web3 connection.
+   <td>The dashboard shows complete details of different entities and allows to organise information using a filter, a keyword search or sort out data by certain parameters, etc. Based on the subgraph + backend-API, we managed to provide faster access to blockchain data compared to solutions based on Web3 connection.
    </td>
   </tr>
 </table>
