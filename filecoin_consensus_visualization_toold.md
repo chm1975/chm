@@ -281,10 +281,8 @@ Below are the roles proposed for the project implementation. Some staff members 
    <td>
     Product Manager
    </td>
-   <td>Cristian Malfesi
-      
-    <a href="https://team.altoros.com/cv1b3d1a/CristianMa">Link to CV</a>
-   </td>
+   <td><p>Cristian Malfesi <br><br><a href="https://team.altoros.com/cv1b3d1a/CristianMa">Link to CV</a></p>
+     </td>
    <td>
     Project Managers are responsible for overseeing the design & development teams. 
    </td>
@@ -294,7 +292,7 @@ Below are the roles proposed for the project implementation. Some staff members 
     Technical Architect
    </td>
    <td>
-    Franco Victorio
+    <p>Franco Vitorio <br><br><a href="https://team.altoros.com/cv86ff9a/FrancoV">Link to CV</a></p>
    </td>
    <td>
     Technical architects are responsible for providing guidance and oversight on technical requirements for the product.
@@ -305,8 +303,7 @@ Below are the roles proposed for the project implementation. Some staff members 
     Frontend Engineer
    </td>
    <td>
-    Jorge Shirai / \
-Fernando Greco
+    <p>Jorge Shirai <br><br><a href="https://team.altoros.com/cv4f2d89/JorgeS">Link to CV</a></p>
    </td>
    <td>
     FE engineers are responsible for developing the front end services for the product. Experts using React, Javascript, Typescript and related interactive visualization libraries (web3.js, d3.js apollo, web3, koajs, hapi, mongoose and much more) 
@@ -317,7 +314,7 @@ Fernando Greco
     Backend Engineer
    </td>
    <td>
-    Lisandro Corbalán /  Darío Miñones
+    <p>Lisandro Corbalán <br><br><a href="https://team.altoros.com/cv22ffc5/LisandroC">Link to CV</a></p>
    </td>
    <td>
     BE engineers are responsible for developing the back end services for the product. Work with these technologies: NodeJs, API, GraphQL, SQL/NonSQL,CI/CD, etc..
@@ -328,7 +325,7 @@ Fernando Greco
     QA and Reviewer
    </td>
    <td>
-    Nicolás Dominguez
+    <p>Nicolás Dominguez <br><br><a href="https://team.altoros.com/cv1a7c58/NicolasF">Link to CV</a></p>
    </td>
    <td>
     QA engineers are responsible for ensuring the product is bug-free and meets client requirements.
@@ -339,7 +336,7 @@ Fernando Greco
     UI Designer
    </td>
    <td>
-    Gabriel Rodriguez
+    <p>Gabriel Rodriguez <br><br><a href="https://team.altoros.com/cv7d294b/Gabriel%20RodriguezA">Link to CV</a></p>
    </td>
    <td>
     UI Designers are responsible for the development of a Design System which includes UI and UX.
@@ -352,12 +349,12 @@ Fernando Greco
 
 The Project Manager will be the primary Point of Contact for Filecoin. Work arrangements and communication plans include:
 
-*   100% remote team that works across geographies and timezones.
-*   Set up a shared Slack channel to maintain active dialogue with Filecoing team.
-*   Set up Slack webhooks from all project management tools for visibility on progress.
-*   Weekly updates will be organized and scheduled demos and discussions.
-*   We use agile methodologies (Scrum, Kanban) and periodic time reports. Sprints of 2 weeks
-*   Organize work and tickets through a Board Administrator
+*   Team will be working remotely across geographies and timezones.
+*   Shared Slack channel will be set up to maintain active dialogue with the Filecoing team.
+*   Slack webhooks will be set up from all project management tools for visibility on progress.
+*   Visibility will be ensured through weekly updates, demos, time and progress reports.
+*   Team will be working based on 2-week sprints and follow Agile methodologies (Scrum, Kanban).
+*   The project is organized through a board that allows daily monitoring. We recommend Zenhub.
 
 
 ## Grant Payment Terms
