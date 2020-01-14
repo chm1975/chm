@@ -7,13 +7,15 @@
 **Proposal Type:*** `rfp`
 
 ## Summary
-This document outlines Protofire’s (a sub-division of Altoros) proposition on providing a  blockchain specialist developer team to build the Consensus Visualization Tool. We believe that we can build robust solution and contribute with our experience to Filecoin network community.
+This document outlines Protofire’s (a sub-division of [Altoros](https://www.altoros.com/)) proposition on providing a blockchain specialist developer team to build the [Consensus Visualization Tool](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md#rfp-consensus-visualization-tool). We believe that we can build a robust solution and contribute with our experience to the Filecoin network community.
 
 ## Who we are
 
-[Protofire](https://protofire.io) is a team of engineers that helps providers of decentralized protocols, infrastructures and developer platforms to accelerate the growth of their ecosystems. By providing hands-on coding and contributions, Protofire specializes in supercharging developer adoption and network usage. We ship applications, smart contracts, and developer tools (SDKs/APIs/sample apps), as well as assist you in improving performance/cost of oracles.
-Having been interested in Filecoin, our team researched and checked the network to learn and understand the structure, scalability, and security. 
-Based on our experience working with different protocols, networks and as specialists in developing blockchain technologies, we propose our Protofire’s team to build the required tool.
+[Protofire](https://protofire.io) is a team of engineers that helps providers of decentralized protocols, infrastructures and developer platforms accelerate growth of their ecosystems. By providing hands-on coding and contributions, Protofire specializes in supercharging developer adoption and network usage. We ship applications, smart contracts, and developer tools (SDKs/APIs/sample apps), as well as assist you in improving performance/cost of oracles.
+
+Having been interested in Filecoin, our team researched the network to get a deeper understanding of the structure, scalability, and security. 
+
+Having experience working with different protocols, networks and as specialists in developing blockchain technologies, we believe that our team qualifies as suitable for delivering the Consensus Visualisation tool.
 
 ## Project Description
 
@@ -220,7 +222,8 @@ The plan for the Consensus Visualization Tool resembles the Network Explorer Dap
 Our engineering team was responsible for the complete development process working in the analysis, scope definition and UI/UX design through mockups & prototypes, data schema definitions, flows, roadmap and finally the complete development. We worked focused on keeping a good balance between the UI/UX data and backend process. 
 
 <p></p>
-![Home](/Enigma%20Network%20Explorer_Home.png)
+
+![](images/Enigma%20Network%20Explorer_Home.png)
 
 <table>
  </td>
@@ -230,7 +233,8 @@ We have used React, Typescript, web3, material-ui, Apollo, Koajs+hapi, etc.
   </tr>
 </table>
 <p></p>
-![Worker](https://raw.githubusercontent.com/cristianmalfesi/chm/master/Enigma%20Network%20Explorer%20-%2008%20Worker%20Single%402x.png?raw=true)
+
+![](images/Enigma%20Network%20Explorer_Task_details.png)
 
 <table>
  </td>
@@ -239,7 +243,8 @@ We have used React, Typescript, web3, material-ui, Apollo, Koajs+hapi, etc.
   </tr>
 </table>
 <p></p>
-![Task details](https://drive.google.com/file/d/1hQMc5iA9VQavyAbIJ9ZELm8MPPLDiAfx/preview)
+
+![](images/Enigma%20Network%20Explorer%20-%2008%20Worker%20Single@2x.png)
 
 <table>
  </td>
