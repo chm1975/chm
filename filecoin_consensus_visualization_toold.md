@@ -208,26 +208,24 @@ Protofire team will support problems and bugs detected during the agreed period.
 
 
 
-### Acceptance Criteria
-
-This proposal accept the acceptance criteria defined [here](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md#acceptance-criteria). Between milestones 1 and 2, we will make a detailed document with the acceptance criteria based on the final defined scope.
-
-
 ## Assumptions
-- Code hosted into the public Protofire Github repository.
-- Long term maintenance should be agreed with Filecoin.
-- We assume that API (Lotus) has all necessary endpoints and is well documented so that the visualization tool can consume the corresponding data and transform it into a graphical representation.
-- We recommend work with sprint 0 for the milestone 1, to define UI mockups and endpoints.
-- The frontend and backend will be hosted by Filecoin.
-- The proposed time is based on timeframes suggested by Filecoin in the instructions of this link. We assume that Filecoin understands the risks and could be necessary to rethink the estimates.
+*   Code will be hosted in the public Protofire Github repository
+*   Long term maintenance should be agreed with Filecoin
+*   We assume that API ([Lotus](https://lotu.sh/en+api#what-methods-can-i-use-20883)) has all necessary endpoints and is well documented so that the visualization tool can consume the corresponding data and transform it into a graphical representation.
+*   We recommend starting with sprint 0 for the milestone 1, to define UI mockups and endpoints.
+*   The frontend and backend will be hosted by Filecoin
 
-### A Similar Tool
+## Acceptance Criteria
 
-Protofire built a network explorer for the [Enigma Protocol](https://enigma.co/) project that shows status and statistical information of the network. The application reads and processes blockchain data and Enigma network and handles events of all Enigma workers (nodes), epochs (rounds), tasks and users' information. 
+The proposed tool will adhere to the acceptance criteria defined [here](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md#acceptance-criteria). Before starting the project we will make a detailed document with the acceptance criteria based on the final scope.
 
-The plan for the Consensus Visualization Tool resembles the Network Explorer Dapp’s plan, and in this context we have positive experiences. We built a good infrastructure behind the Dapp where we process the Ethereum data through building a [subgraph](https://thegraph.com/), increasing the data access speed to the frontend and creating a backend API (NodeJs) in order to process statistical data and manage complex formulas to handle different events. The complete solution was developed using containers based on docker-compose that allowed easy deploys on cloud services.
+### Protofire Relevant Experience
 
-Our engineering team was responsible for the complete development process working in the analysis, scope definition and UI/UX design through mockups & prototypes, data schema definitions, flows, roadmap and finally the complete development. We worked focused on keeping a good balance between the UI/UX data and backend process. 
+Protofire has delivered a network explorer for the [Enigma Protoco](https://enigma.co)l that is similar to the Consensus Visualization Tool. Enigma Network Explorer demonstrates the Enigma Consensus process handling events and data for workers (nodes), epochs(rounds), tasks and users. Users can follow up on the status and statistical information of the network. This app works with complex architecture processing data from Ethereum and Enigma network.
+
+We built a robust infrastructure behind the Dapp where we process the Ethereum data through building a [subgraph](https://thegraph.com/), increasing the data access speed to the frontend and creating a backend API (NodeJs) in order to process statistical data and manage complex formulas to handle different events. The complete solution was developed using containers based on docker-compose that allowed for easy deployments on cloud services.
+
+Our engineering team was responsible for the complete development process from business analysis, scope, data schema definition and UI/UX design to the development and QA. The development team focused on building a stable and robust backend while ensuring the strong user experience.
 
 <p></p>
 
@@ -235,7 +233,7 @@ Our engineering team was responsible for the complete development process workin
 
 <table>
  </td>
-   <td>The main page intends to show a quick overview of the network status. All data of the network, progressive chart, Epocs boxes, and tasks are updated in real-time. The user has all the information in a screenshot and one-click access to go in deeper details. \
+   <td>The main page intends to show a quick overview of the network status. All data of the network, progressive chart, Epocs boxes, and tasks are updated in real-time. The user has all the information on the screen and has a one-click access to further details.
 We have used React, Typescript, web3, material-ui, Apollo, Koajs+hapi, etc.
    </td>
   </tr>
@@ -246,7 +244,7 @@ We have used React, Typescript, web3, material-ui, Apollo, Koajs+hapi, etc.
 
 <table>
  </td>
-   <td>List pages show complete details of different entities including features like filter, search, sort, etc. Based on the subgraph + backend-API, we have complete access to all data with high speed.
+   <td>The dashboard shows complete details of different entities and allows to organise information using a filter, a keyword search or sort out data by a certain parameters, etc. Based on the subgraph + backend-API, we managed to provide faster access to blockchain data compared to solutions based on Web3 connection.
    </td>
   </tr>
 </table>
@@ -256,7 +254,7 @@ We have used React, Typescript, web3, material-ui, Apollo, Koajs+hapi, etc.
 
 <table>
  </td>
-   <td>User has the complete entity information of workers (nodes), tasks and users and all is synchronized and has related links to any direction.
+   <td>Users have complete information on all entities: workers (nodes), tasks and users. All entities are synchronized and are linked to each other. 
    </td>
   </tr>
 </table>
