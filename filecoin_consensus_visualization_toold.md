@@ -17,18 +17,23 @@ Having been interested in Filecoin, our team researched the network to get a dee
 
 Having experience working with different protocols, networks and as specialists in developing blockchain technologies, we believe that our team qualifies as suitable for delivering the Consensus Visualisation tool.
 
-## Project Description
+#Consensus Visualization Tool
 
-Develop an open-source blockchain [consensus visualization tool](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md#rfp-consensus-visualization-tool) that demonstrates Filecoin's [Expected Consensus](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md#about-expected-consensus-ec) process. It must show the main chain and also other forks.
-Expected Consensus based on Storage Power Mining is a very exciting consensus algorithm in Filecoin. Educate those new to Filecoin on how it works. Observe when bad forks happen and probe when and why they may be occurring.
+## Objetives
+
+The objectives of this proposal is to develop an open-source blockchain consensus visualization tool that demonstrates Filecoin's [Expected Consensus](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md#about-expected-consensus-ec) process. It must show the main chain and also other forks.
 
 ## Deliverables
-We agree to work under the scope of work detailed in the deliverable rules shared on this [link](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md#deliverables).
-Other deliverables points are:
-- Open source Github repository with public access
-- Hosted application working with Testnet and Mainnet
-- The tutorial will be published in the repo.
-- Create a blog post and publish it on medium and share through linkedin, twitter and other social nets
+
+This proposal covers all the deliverables described in the RFP that is available by this [link](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md#deliverables). \
+Additional deliverables are:
+
+
+*   Open source Github repository with public access
+*   Hosted application working with Testnet and Mainnet
+*   The tutorial with demo usage that will be published in the repo.
+*   Blog post that will be published on Protofire medium account and shared through linkedin, twitter and other platforms
+*   Updated estimates for milestones 2-4
 
 ## Scope of Work
 Protofire’s team has the capability and expertise to develop the required tool detailed on the [RFP](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md).
