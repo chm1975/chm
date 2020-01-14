@@ -262,13 +262,13 @@ We have used React, Typescript, web3, material-ui, Apollo, Koajs+hapi, etc.
 
 ## Key Personnel and Roles
 
-Five is the proposed team and roles. Some staff members may take on multiple resource roles. \
+Below are the roles proposed for the project implementation. Some staff members may take on multiple resource roles.
 
 
 <table>
   <tr>
    <td>
-    <strong>Resource Title</strong>
+    <strong>Role</strong>
    </td>
    <td>
     <strong>Resource</strong>
@@ -281,8 +281,9 @@ Five is the proposed team and roles. Some staff members may take on multiple res
    <td>
     Product Manager
    </td>
-   <td>
-    <a href="https://team.altoros.com/cv1b3d1a/CristianMa">Cristian Malfesi</a>
+   <td>Cristian Malfesi
+      
+    <a href="https://team.altoros.com/cv1b3d1a/CristianMa">Link to CV</a>
    </td>
    <td>
     Project Managers are responsible for overseeing the design & development teams. 
