@@ -220,7 +220,7 @@ The plan for the Consensus Visualization Tool resembles the Network Explorer Dap
 Our engineering team was responsible for the complete development process working in the analysis, scope definition and UI/UX design through mockups & prototypes, data schema definitions, flows, roadmap and finally the complete development. We worked focused on keeping a good balance between the UI/UX data and backend process. 
 
 <p></p>
-![Home](https://raw.githubusercontent.com/cristianmalfesi/chm/master/Enigma%20Network%20Explorer_Home.png?token=AFNHXPL7IG5ASFJOCRKXZW26C6VUW)
+![Home](/Enigma%20Network%20Explorer_Home.png)
 
 <table>
  </td>
