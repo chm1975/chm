@@ -240,7 +240,7 @@ We have used React, Typescript, web3, material-ui, Apollo, Koajs+hapi, etc.
 </table>
 <p></p>
 
-![](images/Enigma%20Network%20Explorer_Task_details.png)
+![](images/Enigma%20Network%20Explorer%20-%2008%20Worker%20Single@2x.png)
 
 <table>
  </td>
@@ -250,7 +250,7 @@ We have used React, Typescript, web3, material-ui, Apollo, Koajs+hapi, etc.
 </table>
 <p></p>
 
-![](images/Enigma%20Network%20Explorer%20-%2008%20Worker%20Single@2x.png)
+![](images/Enigma%20Network%20Explorer_Task_details.png)
 
 <table>
  </td>
