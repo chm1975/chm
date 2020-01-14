@@ -36,20 +36,20 @@ Additional deliverables are:
 *   Updated estimates for milestones 2-4
 
 ## Scope of Work
-Protofire’s team has the capability and expertise to develop the required tool detailed on the [RFP](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md).
-According to the requirements, our team is ready to work on these milestones :
+Below you can find the table describing the milestones schedule, tasks and deliverables that are based on the the requirements stated in [RFP](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-consensus-visualization-tool.md).
+
 
 <table>
 <tr>
 <td><strong>Milestone</strong>
 </td>
-<td><strong>Tasks________________________</strong>
+<td><strong>Tasks________________________________</strong>
 </td>
-<td><strong>Deliverables & Outcomes</strong>
+<td><strong>Deliverables & Outcome</strong>
 </td>
-<td><strong>Funding</strong>
+<td><strong>Fund</strong>
 </td>
-<td><strong>Effort___</strong>
+<td><strong>Effort_____</strong>
 </td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ According to the requirements, our team is ready to work on these milestones :
 
 Definition of what and how the visual tool accomplishes the objective(s), alongside with a prioritization of them (scope and roadmap). This definition will be made up by the deliverables previously listed, so that the engineering team and stakeholders goals are aligned at the end of the feedback rounds and for the milestones ahead.
    </td>
-   <td>35K
+   <td>30K
    </td>
    <td>3 weeks
    </td>
@@ -96,7 +96,7 @@ Definition of what and how the visual tool accomplishes the objective(s), alongs
 <td>#2
 </td>
 <td>
-- Organize 2 sprints of 2 weeks
+- Organize sprints of 2 weeks each one
 <p>- Frontend
 
 - Setup
@@ -114,9 +114,10 @@ Definition of what and how the visual tool accomplishes the objective(s), alongs
 - Unit Tests
 - CI
 <p>- Local/Develop and Cloud/Test environments setups
-<p>- 2 Demos
+<p>- Demos per sprint
 <p>- Feedback rework
 
+<p>Sprint duration may be adapted according to team size and scope; as well as demos & feedback rework sessions.
 
 </td>
 <td><strong>Deliverables:</strong>
@@ -133,9 +134,10 @@ Definition of what and how the visual tool accomplishes the objective(s), alongs
 
 Generate a working implementation that meets the objectives previously defined, and that is approved by stakeholders.
    </td>
-   <td>35K
+   <td>TBD
    </td>
-   <td>3 weeks
+   <td>4 weeks
+   (TBD)
    </td>
   </tr>
   <tr>
@@ -161,11 +163,11 @@ Generate a working implementation that meets the objectives previously defined, 
 <strong>Outcomes:</strong>
 
 Wrap up the project's codebase to add it to the Shipyard so it can be further modified or maintained by a Filecoin developer/community. The blogpost or tutorial may improve the understanding of how the project works and represents the consensus process (ideal to aid new people looking for understanding the consensus process) and, maybe, tell something cool about the development experience to improve community engagement.
-
    </td>
-   <td>20K
+   <td>TBD
    </td>
    <td>2 weeks
+   (TBD)
    </td>
   </tr>
   <tr>
@@ -184,9 +186,10 @@ Maintenance and Upgrades during Testnet and Mainnet
 
 Protofire team will support problems and bugs detected during the agreed period.
    </td>
-   <td>15K
+   <td>TBD
    </td>
    <td>2 weeks
+   (TBD)
    </td>
   </tr>
   <tr>
@@ -196,7 +199,7 @@ Protofire team will support problems and bugs detected during the agreed period.
 </td>
 <td><strong>TOTAL</strong>
 </td>
-<td><strong>110K</strong>
+<td><strong>TBD</strong>
 </td>
 <td><strong>11 weeks</strong>
 </td>
