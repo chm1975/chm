@@ -387,5 +387,5 @@ Protofire works exclusively with entrepreneurs who are builders of decentralized
 
 ## Our services, customers and works
 
-[About Protofire](http://protofire.io/presentation-customers-works)
+[About Protofire](doc/PROTOFIRE%20Overview%20.pdf)
 
