@@ -81,6 +81,7 @@ Below you can find the table describing the milestones schedule, tasks and deliv
 - Infrastructure design
 - API endpoint definitions
 - Roadmap document and completed Backlog
+- Updated estimates for milestones 2-4
 
 <p>
 <strong>Outcomes:</strong>
@@ -155,8 +156,8 @@ Generate a working implementation that meets the objectives previously defined, 
 <td><strong>Deliverables:</strong>
 
 - Changes and improvements from feedback
-- Create well-documented, human-readable codebase
-- Create blog post and/or tutorial with demo usage
+- Well-documented, human-readable codebase
+- Blog post and/or tutorial with demo usage
 
 
 <p>
@@ -197,11 +198,23 @@ Protofire team will support problems and bugs detected during the agreed period.
 </td>
 <td><strong></strong>
 </td>
-<td><strong>TOTAL</strong>
+<td><strong>TOTAL (Milestone 1)</strong>
+</td>
+<td><strong>30K</strong>
+</td>
+<td><strong>3 weeks</strong>
+</td>
+</tr>
+<tr>
+<td><strong></strong>
+</td>
+<td><strong></strong>
+</td>
+<td><strong>TOTAL (Full project)</strong>
 </td>
 <td><strong>TBD</strong>
 </td>
-<td><strong>11 weeks</strong>
+<td><strong>~11 weeks</strong>
 </td>
 </tr>
 </table>
@@ -361,7 +374,7 @@ The Project Manager will be the primary Point of Contact for Filecoin. Work arra
 
 This is a proposal for a fixed bid grant. Filecoin is requested to pay as follows:
 
-*   50% upon start of the project and 50% upon project completion, with net 14 payment terms.
+*   50% upon start of the project (USD 15K) and 50% (USD 15K) upon project completion, with net15 payment terms.
 *   Any changes to the scope of work or overages to the price must be agreed in writing by the parties through a change request.
 *   All work is expected to be done remotely, with no travel required.
 
