@@ -359,7 +359,7 @@ The Project Manager will be the primary Point of Contact for Filecoin. Work arra
 
 ## Grant Payment Terms
 
-This is a proposal for a fixed bid grant. Tezos is requested to pay as follows:
+This is a proposal for a fixed bid grant. Filecoin is requested to pay as follows:
 
 *   50% upon start of the project and 50% upon project completion, with net 14 payment terms.
 *   Any changes to the scope of work or overages to the price must be agreed in writing by the parties through a change request.
